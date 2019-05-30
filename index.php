@@ -1,3 +1,6 @@
 <?php
- echo 'aaa';
+echo 'aaa';
+echo 'bbb';
+echo 'ccc';
+echo 'ddd';
 ?>
